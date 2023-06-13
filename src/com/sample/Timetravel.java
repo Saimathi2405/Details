@@ -10,6 +10,10 @@ public class Timetravel {
 	}
 	
 	
+	public static void main(String[] args) {
+		 Timetravel t = new Timetravel();
+		 t.tc223();
+	}
 	
 	
 }
